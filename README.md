@@ -23,6 +23,6 @@
 Apaixonada por artes, atividade física, educação e tecnologia, eu vivo meus dias buscando aprender a aprender e a ensinar!
 
 </br>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/debysouza/count.svg" /></p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/deboraosouza/count.svg" /></p>
 
-![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/deboraosouza/deboraosouza/blob/output/github-contribution-grid-snake.svg)
