@@ -7,3 +7,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deboraosouza/deboraosouza/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deboraosouza/deboraosouza/output/github-contribution-grid-snake.svg">
 </picture>
+
+![snake gif](https://github.com/debysouza/debysouza/blob/output/github-contribution-grid-snake.svg)
